@@ -1,5 +1,8 @@
 dist: trusty
 
+arch:
+  - arm64
+  - amd64
 notifications:
   email:
     recipients:
